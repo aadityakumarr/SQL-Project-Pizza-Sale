@@ -1,2 +1,3 @@
 # SQL-Project-Pizza-Sale
-My SQL Project on Pizza Sale
+In this project i have utilized the SQL queries to solve questions that are related to PizzaSale projrect & also help me to learn and understand SQL-Queries Syntax & Database (MYSQL Workbench) like that how to create database, table in mysql workbench. the data of pizza-sale in the format of CSV file there are four files order_details.csv, orders.csv, pizza_types.csv, pizzas.csv. this files are import on the MYSQL Workbench after after importing the all files. there are some question realted to this project. that i had solved. if you want the answer of all questions click on the solution folder & get a file name is pizza-sale-solution.text . 
+
